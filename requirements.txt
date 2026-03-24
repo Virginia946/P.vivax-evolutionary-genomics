@@ -1,0 +1,25 @@
+# Data handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Notebooks
+jupyter
+
+# File handling
+openpyxl
+
+# Optional (for advanced models / deep learning)
+tensorflow
+# OR use PyTorch instead:
+# torch
+# torchvision
+
+# Utilities
+tqdm
